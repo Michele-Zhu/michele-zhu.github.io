@@ -1,14 +1,14 @@
 ---
 layout: page
-title: extra
+title: Extra
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
   - title: news
     permalink: /news/
+  - title: bookshelf
+    permalink: /books/
   # - title: divider
   # - title: blog
   #   permalink: /blog/

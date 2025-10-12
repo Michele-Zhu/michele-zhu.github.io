@@ -190,6 +190,7 @@ exclude:
   - vendor
   - _pages/blog.md
   - _posts
+  - _old/
 keep_files:
   - CNAME
   - .nojekyll

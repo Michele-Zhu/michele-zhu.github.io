@@ -8,15 +8,14 @@
 
 - title: Skills
   type: nested_list
-  contents: 
-  - title: Programming
-    items: 
-      - Python
-      - C++
-  - title: Artificial Intelligence
-    items:
-      - PyTorch
-
+  contents:
+    - title: Programming
+      items:
+        - Python
+        - C++
+    - title: Artificial Intelligence
+      items:
+        - PyTorch
 
 - title: Education
   type: time_table
@@ -42,7 +41,7 @@
     - title: Teacher Assistant
       institution: Politecnico di Milano
       year: 1900 - 2000
-      description: 
+      description:
         - Description 1.
         - Description 1.
         - Description 2.
@@ -50,7 +49,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-
 
 - title: Interests
   type: nested_list
@@ -113,8 +111,6 @@
 #     - year: 2029
 #       items:
 #         - Max Planck Medal
-
-
 
 # - title: Other Interests
 #   type: list

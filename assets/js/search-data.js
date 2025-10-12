@@ -4,52 +4,47 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/michele-zhu/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "List of publications in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/michele-zhu/publications/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/michele-zhu/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          title: "CV",
+          description: "This Page is under construction",
           section: "Navigation",
           handler: () => {
             window.location.href = "/michele-zhu/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/michele-zhu/books/";
-              },
-            },{id: "dropdown-news",
+        },{id: "dropdown-news",
               title: "news",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/michele-zhu/news/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/michele-zhu/books/the_godfather.html";
-            },},{id: "news-i-started-my-phd-journey",
+            },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/michele-zhu/books/";
+              },
+            },{id: "news-i-started-my-phd-journey",
           title: 'I started my PhD journey!',
           description: "",
           section: "News",},{id: "projects-project-1",

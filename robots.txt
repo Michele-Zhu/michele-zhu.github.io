@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://michele-zhu.github.io//michele-zhu/sitemap.xml
+Sitemap: https://michele-zhu.github.io//sitemap.xml

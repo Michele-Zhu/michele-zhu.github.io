@@ -7,42 +7,42 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/michele-zhu/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "List of publications in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michele-zhu/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-repositories",
           title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michele-zhu/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "This Page is under construction",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/michele-zhu/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "dropdown-news",
               title: "news",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/michele-zhu/news/";
+                window.location.href = "/news/";
               },
             },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/michele-zhu/books/";
+                window.location.href = "/books/";
               },
             },{id: "news-i-started-my-phd-journey",
           title: 'I started my PhD journey!',
@@ -51,47 +51,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/1_project.html";
+              window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/2_project.html";
+              window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/3_project.html";
+              window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/4_project.html";
+              window.location.href = "/projects/4_project.html";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/5_project.html";
+              window.location.href = "/projects/5_project.html";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/6_project.html";
+              window.location.href = "/projects/6_project.html";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/7_project.html";
+              window.location.href = "/projects/7_project.html";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/8_project.html";
+              window.location.href = "/projects/8_project.html";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/michele-zhu/projects/9_project.html";
+              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',

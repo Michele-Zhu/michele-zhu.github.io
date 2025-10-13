@@ -20,10 +20,10 @@
         - PyTorch
         - TensorFlow
         - Numpy
-        - Pandas 
+        - Pandas
         - Git
-        - Docker 
-        - ns3 
+        - Docker
+        - ns3
         - SimAI
 
 - title: Education
@@ -58,7 +58,7 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Teaching Assistant 
+    - title: Teaching Assistant
       institution: Politecnico di Milano
       year: 02/2024 - 12/2024
       description:
@@ -86,11 +86,10 @@
       description: ...
     - title
 
-- title: Extras 
+- title: Extras
   type: nested_list
   contents:
     - title: Extra stuff that I'd like to say
-
 # - title: Interests
 #   type: nested_list
 #   contents:

@@ -11,12 +11,10 @@ name: "Lighthouse Badger"
 ########################################################################
 # DEFINE YOUR INPUTS AND TRIGGERS IN THE FOLLOWING
 ########################################################################
-permissions:
-  contents: write
 
 # INPUTS as Secrets (env) for not manually triggered workflows
 env:
-  URLS: 
+  URLS:
   TOKEN_NAME:
   REPO_BRANCH: "${{ github.repository }} main" # target repository & branch e.g. 'dummy/mytargetrepo main'
   MOBILE_LIGHTHOUSE_PARAMS: "--only-categories=performance,accessibility,best-practices,seo --throttling.cpuSlowdownMultiplier=2"
@@ -25,11 +23,12 @@ env:
 # TRIGGERS
 on:
   workflow_dispatch:
-    urls:
-        description: 'URL(s) to be checked'
+    inputs:
+      urls:
+        description: "URL(s) to be checked"
         required: true
-    token_name:
-        description: 'Target token name (NO VALUE!)'
+      token_name:
+        description: "Target token name (NO VALUE!)"
         required: true
   page_build:
 

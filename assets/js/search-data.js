@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This Page is under construction",
+          description: "This Page is under construction. N.B. you can opt out from having this page, just send the cv.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

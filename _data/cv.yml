@@ -22,7 +22,7 @@
   contents:
     - title: PhD in Information Technology
       institution: Politecnico di Milano, Milan, Italy
-      year: 2300
+      year: Present
     - title: Master in Computer Science and Engineering
       institution: Politecnico di Milano, Milan, Italy
       year: 2023
@@ -38,29 +38,56 @@
 - title: Work
   type: time_table
   contents:
-    - title: Teacher Assistant
+    - title: Teaching Assistant
       institution: Politecnico di Milano
-      year: 1900 - 2000
+      year: 01/2025 - 06/2025
       description:
-        - Description 1.
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Tutor for the Capstone Projects for senior biomedical engineering student
+        - Development of a VR application for elder care assistant training
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Teaching Assistant 
+      institution: Politecnico di Milano
+      year: 02/2024 - 12/2024
+      description:
+        - Led the design and development of a full-stack web application for university internal usage.
+    - title: Teaching Assistant
+      institution: Politecnico di Milano
+      year: 02/2023 - 06/2023
+      description:
+        - Educator in multimedia technologies
 
-- title: Interests
-  type: nested_list
+- title: Projects
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Routing for AI Datacenter
+      institution: Politecnico di Milano
+      year: 04/2025 - Present
+      description: research on rdma load balancing schemes to improve end-to-end training performance of AI/LLM workloads
+    - title: Semantic Communication
+      institution: Politecnico di Milano
+      year: 09/2025 - Present
+      description: extention of the previous work on semantic communication via feature identification
+    - title: Electromagnetic Digital Twin
+      institution: Politecnico di Milano - Huawei
+      year: 01/2024 - 06/2025
+      description: ...
+
+# - title: Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
 # - title: Experience
 #   type: time_table
 #   contents:

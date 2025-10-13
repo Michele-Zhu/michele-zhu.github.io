@@ -31,14 +31,14 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "dropdown-news",
-              title: "news",
+              title: "News",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/news/";
               },
             },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+              title: "Bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {

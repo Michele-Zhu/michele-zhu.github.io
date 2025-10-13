@@ -4,7 +4,7 @@
     - name: Full Name
       value: Michele Zhu
     - name: Languages
-      value: English, Italian, Chinese
+      value: English, Italian, Chinese (Mandarin)
 
 - title: Skills
   type: nested_list
@@ -13,9 +13,18 @@
       items:
         - Python
         - C++
-    - title: Artificial Intelligence
+        - MATLAB
+        - Shell/Bash scripting
+    - title: Frameworks, Libraries and Tools
       items:
         - PyTorch
+        - TensorFlow
+        - Numpy
+        - Pandas 
+        - Git
+        - Docker 
+        - ns3 
+        - SimAI
 
 - title: Education
   type: time_table
@@ -70,11 +79,17 @@
     - title: Semantic Communication
       institution: Politecnico di Milano
       year: 09/2025 - Present
-      description: extention of the previous work on semantic communication via feature identification
+      description: integration of semantic via feature identification paradigm into LLMs
     - title: Electromagnetic Digital Twin
       institution: Politecnico di Milano - Huawei
       year: 01/2024 - 06/2025
       description: ...
+    - title
+
+- title: Extras 
+  type: nested_list
+  contents:
+    - title: Extra stuff that I'd like to say
 
 # - title: Interests
 #   type: nested_list

@@ -36,13 +36,13 @@
       institution: Politecnico di Milano, Milan, Italy
       year: 2023
       description:
-        - Courses...
-        - other courses...
+        #- Courses...
+        #- other courses...
     - title: Bachelor in Information Technology
       institution: Università di Padova, Padua, Italy
       year: 2020
       description:
-        - Courses...
+        #- Courses...
 
 - title: Work
   type: time_table
@@ -72,24 +72,32 @@
 - title: Projects
   type: time_table
   contents:
-    - title: Routing for AI Datacenter
+    # - title: Routing for AI Datacenter
+    #   institution: Politecnico di Milano
+    #   year: 04/2025 - Present
+    #   description: research on rdma load balancing schemes to improve end-to-end training performance of AI/LLM workloads
+    - title: PN Relay
       institution: Politecnico di Milano
-      year: 04/2025 - Present
-      description: research on rdma load balancing schemes to improve end-to-end training performance of AI/LLM workloads
-    - title: Semantic Communication
-      institution: Politecnico di Milano
-      year: 09/2025 - Present
-      description: integration of semantic via feature identification paradigm into LLMs
+      year: 01/2024 - 05/2025
+      description: Advisory role in the project. The aim is to develop a implantable peripheral nerve interface
     - title: Electromagnetic Digital Twin
       institution: Politecnico di Milano - Huawei
       year: 01/2024 - 06/2025
-      description: ...
-    - title
+      description: Development of a digital twin for v2x communications. Deep learning classification models for wireless communication channel.
+    - title: Semantic Communication via Feature Identification
+      institution: Politecnico di Milano
+      year: 03/2024 - Present
+      description: The research project aims to go beyond traditional bit-wise syntactic communication toward semantic communication.
+    - title: Semantic Communication for Video Conferencing
+      institution: Politecnico di Milano
+      year: 05/2022 - 12/2023
+      description: Deep learning extraction of headpose representation for video conferencing.
 
-- title: Extras
-  type: nested_list
-  contents:
-    - title: Extra stuff that I'd like to say
+# - title: Extras
+#   type: nested_list
+#   contents:
+#     - title: Extra stuff that I'd like to say
+    
 # - title: Interests
 #   type: nested_list
 #   contents:

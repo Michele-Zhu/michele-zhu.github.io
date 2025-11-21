@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Semantic Communication via Features Identificaiton* in IEEE International Conference on Communication is online!
+_Semantic Communication via Features Identificaiton_ in IEEE International Conference on Communication is online!

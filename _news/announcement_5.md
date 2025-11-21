@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Exploiting age of information in network digital twins for AI-driven real-time link blockage detection* in Elservier Computer Networks is online!
+_Exploiting age of information in network digital twins for AI-driven real-time link blockage detection_ in Elservier Computer Networks is online!

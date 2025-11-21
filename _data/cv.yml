@@ -92,12 +92,11 @@
       institution: Politecnico di Milano
       year: 05/2022 - 12/2023
       description: Deep learning extraction of headpose representation for video conferencing.
-
 # - title: Extras
 #   type: nested_list
 #   contents:
 #     - title: Extra stuff that I'd like to say
-    
+
 # - title: Interests
 #   type: nested_list
 #   contents:

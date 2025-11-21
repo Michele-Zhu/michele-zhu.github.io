@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*Toward Real-Time Digital Twins of EM Environments: Computational Benchmark for Ray Launching Software* in IEEE Open Journal of the Communication Society is online!
+_Toward Real-Time Digital Twins of EM Environments: Computational Benchmark for Ray Launching Software_ in IEEE Open Journal of the Communication Society is online!

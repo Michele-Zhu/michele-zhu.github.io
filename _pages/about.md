@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm a PhD candidate in Information Technology at [Politecnico di Milano](https://www.polimi.en/), Department of Electronics Information and Bioengineering([DEIB](https://www.deib.polimi.it/eng/home-page)). My experiences include full-stack web-app development, VR applications, game design.
+Hi, I'm a PhD candidate in Information Technology at [Politecnico di Milano](https://www.polimi.it/en/), Department of Electronics Information and Bioengineering([DEIB](https://www.deib.polimi.it/eng/home-page)). My experiences include full-stack web-app development, VR applications, game design.
 On the research side I've worked on digital twins, deep learning, wireless/networking systems.
 
 <!-- My elevator pitch is: I’m passionate about building great software, I love deep learning, and I care deeply about performance. -->

@@ -3,9 +3,11 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: # Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
+nav: false
 nav_order: 4
 ---
+
+Notice: 07/12/2025 upstream service https://github.com/anuraghazra/github-readme-stats is currently down, this repo page is hidden until it's up again or util I deploy my own instance for github stats
 
 {% if site.data.repositories.github_users %}
 

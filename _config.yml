@@ -189,7 +189,6 @@ exclude:
   - readme_preview/
   - vendor
   - _old/
-  - _pages/repositories.md
   - _pages/projects.md
 keep_files:
   - CNAME

@@ -51,6 +51,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
+            },{id: "dropdown-quotes",
+              title: "Quotes",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/quotes/";
+              },
             },{id: "news-i-started-my-phd-journey",
           title: 'I started my PhD journey!',
           description: "",
